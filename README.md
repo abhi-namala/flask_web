@@ -2,4 +2,4 @@
 
 A Docker Python Flask web application deployed on Lambda server using port mapping.
 
-![Webpage Screenshot](1081.png)
+![Webpage Screenshot](8081.png)
